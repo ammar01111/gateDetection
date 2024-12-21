@@ -1,0 +1,10 @@
+
+path: /content/drive/MyDrive/gateDetection/data/
+train: images/train
+val: images/val
+
+kpt_shape: [4, 2]
+flip_idx: [0, 1, 2, 3]
+
+names:
+  0: gate

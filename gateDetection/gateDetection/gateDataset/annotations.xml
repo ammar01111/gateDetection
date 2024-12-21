@@ -1,0 +1,2041 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>1102583</id>
+      <name>gate-detection</name>
+      <size>395</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-12-20 19:13:10.258947+00:00</created>
+      <updated>2024-12-21 12:06:52.545673+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>394</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>1888706</id>
+          <start>0</start>
+          <stop>394</stop>
+          <url>https://app.cvat.ai/api/jobs/1886244</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ammar26</username>
+        <email>ammarbariamu@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>gate</name>
+          <color>#300be5</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-12-21 12:07:49.519157+00:00</dumped>
+  </meta>
+  <image id="0" name="frame1000_jpg.rf.73263097fa61f7eb603f28716cc29c7a.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="231.20,484.40;221.67,161.71;401.64,179.03;419.30,450.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="203.12" ytl="139.30" xbr="435.22" ybr="499.70" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="frame1001_jpg.rf.6b82c7030442912feb8963d1e659515e.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="230.30,484.10;221.67,161.71;401.60,178.10;421.90,451.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="204.00" ytl="147.00" xbr="436.00" ybr="499.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="frame1003_jpg.rf.5be4b651fcd8c7dfccc2cb62fbb3232d.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="230.30,484.10;223.60,159.80;399.70,176.20;421.90,451.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="200.51" ytl="134.29" xbr="434.21" ybr="499.69" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="frame1004_jpg.rf.7cb520d220ab45e6a7b28d6321d441f0.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="230.30,484.10;223.60,159.80;399.70,176.20;421.90,451.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="202.00" ytl="143.00" xbr="434.00" ybr="495.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="frame1005_jpg.rf.18414b971397dbb6be8680dd1299c937.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="230.30,484.10;220.70,154.00;403.50,172.40;421.90,451.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="199.13" ytl="132.29" xbr="435.53" ybr="498.39" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="frame1006_jpg.rf.32ce6af16d3940877a2c2adb09c4f015.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="230.30,484.10;220.70,154.00;403.50,172.40;421.90,451.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="203.19" ytl="140.21" xbr="435.99" ybr="493.01" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="frame1010_jpg.rf.212d811dae317a334229ed0af55ed2a3.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="228.40,485.10;224.50,151.10;407.30,169.50;424.80,452.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="198.76" ytl="124.97" xbr="439.46" ybr="499.10" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="frame1011_jpg.rf.5f56cd7f520fd5d47954e24e2452390a.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="225.50,488.00;218.70,149.20;407.30,169.50;424.80,458.20" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="205.11" ytl="134.40" xbr="436.91" ybr="496.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="frame1012_jpg.rf.35046a589e9e1b4c0c325c0a8f9d3cb9.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="222.80,494.90;214.70,150.80;408.40,174.60;421.90,463.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="194.00" ytl="132.38" xbr="437.44" ybr="509.47" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="frame1013_jpg.rf.f3141b4688948786cd4874bd5f1ecfe4.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="218.00,492.50;214.70,150.80;408.40,174.60;421.90,463.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="186.84" ytl="127.20" xbr="433.47" ybr="501.15" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="frame1015_jpg.rf.b2566ce0955d3a2309eb4c48af6cf4ce.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="209.20,491.70;213.10,141.20;408.40,174.60;415.50,468.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="178.08" ytl="123.71" xbr="432.79" ybr="509.75" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="frame1016_jpg.rf.332aa68fa5d145131037feabc154914c.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="207.60,492.50;212.30,138.80;408.40,174.60;415.50,468.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="181.14" ytl="115.22" xbr="429.38" ybr="508.98" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="frame1017_jpg.rf.f88986d7eda0748a6bf77e79c720b2b5.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="203.10,494.20;209.00,139.40;408.40,177.90;413.30,470.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="180.08" ytl="113.29" xbr="427.70" ybr="516.27" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="frame1018_jpg.rf.eb5f9b387bd669d13be7f8f6896bd4b1.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="203.10,494.20;204.50,137.20;408.40,177.90;413.30,470.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="174.89" ytl="113.10" xbr="427.96" ybr="505.22" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="frame1019_jpg.rf.db94eab2d185c6ea14286d9b4a6cc756.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="202.50,498.10;204.50,137.20;408.40,177.90;413.30,470.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="176.12" ytl="116.59" xbr="428.00" ybr="517.46" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="frame1020_jpg.rf.77909ab7fd09ab020a506a7ef0e80518.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="201.90,498.70;201.70,137.80;406.70,174.00;413.90,473.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="158.65" ytl="112.73" xbr="439.95" ybr="509.83" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="frame1021_jpg.rf.79435908ad78e4cbd43d864a9005ae02.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="201.90,498.70;201.70,137.80;406.70,174.00;413.90,473.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="166.46" ytl="115.94" xbr="432.20" ybr="518.70" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="frame1025_jpg.rf.6d5e4e3f9ca767f0fd8866006cd77484.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="197.40,512.10;197.80,135.60;410.00,170.10;421.10,477.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="165.74" ytl="112.92" xbr="435.74" ybr="531.81" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="frame1026_jpg.rf.94294aa8bdbaf0facef27a7f7c5b165c.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="197.40,512.10;197.80,135.60;410.00,170.10;421.10,477.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="175.97" ytl="115.45" xbr="427.13" ybr="519.88" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="frame1027_jpg.rf.3e1a664c073b394b7b816b8d5fe8b0b5.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="195.20,516.60;196.10,137.30;410.00,170.70;422.20,482.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="159.48" ytl="114.41" xbr="449.18" ybr="522.78" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="frame1028_jpg.rf.aecd1113585f3faa1e173b3efd7a825e.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="195.20,516.60;196.10,137.30;410.00,170.70;422.20,482.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="178.94" ytl="120.36" xbr="428.89" ybr="526.96" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="frame1029_jpg.rf.a01b0768eea844845cd5aa8f3c0b9eeb.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="195.20,516.60;196.10,131.70;410.00,170.70;422.20,482.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="177.15" ytl="109.68" xbr="431.86" ybr="527.50" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="frame1031_jpg.rf.30e8281d51ad8d1060cca130e996132c.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="195.20,516.60;196.10,124.50;415.60,166.80;426.70,483.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="166.58" ytl="102.11" xbr="432.08" ybr="526.91" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="frame1036_jpg.rf.62bfcdd000f1bfccf6f9dff1a24ad31d.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="193.90,522.60;189.40,115.10;418.90,153.40;432.70,481.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="177.98" ytl="97.73" xbr="436.78" ybr="530.79" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="frame1038_jpg.rf.728af75571d274ae41330a2860cf3c1a.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="191.90,523.90;184.70,111.80;420.20,147.40;433.40,479.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="173.91" ytl="92.09" xbr="441.73" ybr="536.18" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="frame1039_jpg.rf.c2c7ba43f0150305c2fa926fa83759b5.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="191.90,523.90;184.70,111.80;420.20,147.40;433.40,479.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="172.00" ytl="92.00" xbr="439.00" ybr="536.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="frame1040_jpg.rf.151262a25b98a0ba61426afeb2a7bfc1.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="189.90,528.60;184.70,111.80;420.20,147.40;435.40,481.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="172.67" ytl="90.32" xbr="439.67" ybr="534.32" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="frame1041_jpg.rf.c4ebed5addbdcd8170ff58a1cb38de57.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="185.90,532.60;182.00,111.80;420.20,147.40;435.40,481.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="169.37" ytl="91.62" xbr="438.97" ybr="539.03" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="frame1043_jpg.rf.768b774643c528b00478d407003cb773.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="180.50,540.60;174.00,115.80;417.50,149.40;433.40,491.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="145.12" ytl="92.21" xbr="457.62" ybr="556.99" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="frame1044_jpg.rf.52ac9aca4ec068ee1c2ff01e2f690c36.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="177.80,544.60;174.00,115.80;417.50,149.40;433.40,491.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="157.46" ytl="88.12" xbr="440.88" ybr="555.51" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="frame1045_jpg.rf.63a78af41eb22ef0ff09c9c136a2330d.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="173.10,547.30;170.70,111.80;417.50,149.40;432.70,495.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="154.00" ytl="88.00" xbr="437.00" ybr="555.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="frame1047_jpg.rf.01c94a7b62da4906ec459a4fd82259cf.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="168.40,548.60;167.40,103.80;417.50,149.40;431.40,499.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="149.65" ytl="84.30" xbr="437.95" ybr="552.75" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="frame1050_jpg.rf.6617f52fd3821c150d997505c13b3d7f.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="161.00,563.30;162.70,103.80;417.50,149.40;432.70,507.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="133.80" ytl="80.86" xbr="444.34" ybr="568.58" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="frame1051_jpg.rf.386ad32e5527a92688caa4e7e6cf4711.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="161.00,563.30;162.70,103.80;417.50,149.40;432.70,507.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="124.28" ytl="68.35" xbr="459.47" ybr="589.45" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="frame1053_jpg.rf.871534bc079c300702c06da58ec4f7f6.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="155.00,572.70;156.70,104.50;417.50,149.40;437.40,514.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="123.39" ytl="73.22" xbr="448.88" ybr="583.76" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="frame1054_jpg.rf.af40abc4cbadaeabf03af5229149d092.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="155.00,572.70;156.70,104.50;417.50,149.40;437.40,514.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="132.25" ytl="80.91" xbr="449.68" ybr="581.11" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="frame1055_jpg.rf.2f7bd6acc811d4d1d1cb133ef0d7c5d6.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="151.70,581.40;156.70,104.50;417.50,149.40;437.40,514.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="127.28" ytl="80.09" xbr="450.01" ybr="588.79" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="frame1056_jpg.rf.3d2553b97b4f54d2a56e2dc4a2b3bcb5.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="151.70,581.40;154.30,102.90;422.20,152.10;441.40,521.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="127.83" ytl="75.74" xbr="453.83" ybr="591.64" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="frame1057_jpg.rf.5cc6501ab67e249acb5dfc44209aaf18.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="149.00,589.40;152.30,100.20;422.20,152.10;442.10,526.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="127.03" ytl="76.00" xbr="453.03" ybr="593.90" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="frame1058_jpg.rf.63b03d0ea9d5f311f26c1cc5983281ac.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="146.30,592.70;152.30,100.20;422.20,152.10;444.80,530.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="122.65" ytl="71.57" xbr="458.26" ybr="599.73" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="frame1059_jpg.rf.2a2829fd61362c95f00611e821c1af69.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="145.60,594.70;152.30,100.20;424.90,154.10;444.80,530.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="122.00" ytl="71.00" xbr="457.00" ybr="599.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="frame1062_jpg.rf.1011a5ecd19bab76e2a3585174834d17.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="140.90,606.70;152.30,97.50;432.90,155.40;453.60,544.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="117.19" ytl="71.02" xbr="454.19" ybr="619.02" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="frame1063_jpg.rf.d657bfd52e75e7a37072c34b3955761d.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="140.90,606.70;152.30,94.20;432.90,155.40;453.60,544.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="119.00" ytl="71.00" xbr="456.00" ybr="619.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="frame1064_jpg.rf.d0e93cd43ad250600f116caf6129f42f.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="138.20,608.00;151.60,85.50;438.20,153.40;455.60,546.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="119.00" ytl="69.00" xbr="456.00" ybr="617.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="frame1065_jpg.rf.b18e062f6a8e3167dbd77597cc0cc70e.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="138.20,608.00;151.60,85.50;443.00,148.60;455.60,546.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="119.00" ytl="66.00" xbr="456.00" ybr="614.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="frame1068_jpg.rf.9074a2a17f297c5ad8e256e99f0da4b2.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="131.80,610.40;145.20,70.30;445.40,139.00;461.20,546.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="92.20" ytl="44.75" xbr="470.34" ybr="622.75" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="frame1069_jpg.rf.ff88d18957276e4565b868d456f053a6.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="127.00,615.20;138.00,67.10;444.60,134.20;464.40,546.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="108.00" ytl="43.00" xbr="468.00" ybr="621.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="frame1070_jpg.rf.0c80bf9bd48698f904c10922e717fb9e.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="124.60,620.80;138.00,67.10;444.60,134.20;464.40,546.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="98.90" ytl="38.23" xbr="471.80" ybr="631.43" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="frame1071_jpg.rf.ef72f5e99a785ed9ae5a8d338cce7d9a.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="122.20,629.60;129.20,69.50;444.60,134.20;464.40,546.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="92.72" ytl="40.12" xbr="470.02" ybr="635.46" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="frame149_jpg.rf.aaae33502be689d9ad5e1ccb24eafa31.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="283.40,352.10;283.20,282.80;328.30,283.40;328.10,351.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="276.57" ytl="271.38" xbr="333.24" ybr="357.47" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="frame150_jpg.rf.77a20e33b82443137cd7967ee30dfbe9.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="284.10,348.10;283.20,280.10;327.60,280.70;328.10,348.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="277.00" ytl="269.00" xbr="333.00" ybr="355.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="frame152_jpg.rf.c5a0303450e64a17e923ee973b43ac5a.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="286.10,346.80;287.80,278.80;332.30,280.00;331.40,348.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="280.00" ytl="265.00" xbr="336.00" ybr="351.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="frame153_jpg.rf.92d3101f3386b7c3831967d182d459a5.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="288.00,346.20;288.80,276.50;332.90,278.70;333.70,349.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="281.00" ytl="266.00" xbr="337.00" ybr="352.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="frame154_jpg.rf.a2974110850c9b227db1607a3914f801.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="288.00,346.20;289.40,274.20;333.90,276.80;334.70,346.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="281.00" ytl="265.00" xbr="337.00" ybr="351.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="frame157_jpg.rf.c6029f4f7b709ce77b7c15861c50ddba.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="290.90,336.90;290.70,267.80;336.80,268.10;337.30,339.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="284.00" ytl="257.00" xbr="340.00" ybr="343.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="frame159_jpg.rf.594d68e9f3f4df3874027bc2c98b5f99.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="292.50,334.60;292.60,264.30;337.40,263.60;338.00,336.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="286.61" ytl="252.93" xbr="342.61" ybr="338.93" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="frame160_jpg.rf.1297a052b6b78a1e6186de8ed369c10d.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="293.10,334.00;294.50,262.40;337.70,263.60;339.30,335.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="285.00" ytl="252.00" xbr="341.00" ybr="338.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="frame161_jpg.rf.fac4a190543e782c08db42be27b66f46.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="293.70,333.00;293.50,260.10;339.00,262.30;340.60,333.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="287.34" ytl="254.27" xbr="343.34" ybr="340.27" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="frame162_jpg.rf.7160873738294067b01da08e68b6b442.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="293.70,333.00;293.50,260.10;339.00,262.30;340.60,333.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="288.00" ytl="254.00" xbr="344.00" ybr="340.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="frame164_jpg.rf.0ed9d3dd26d2921171e499a0f92bdfcc.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="293.70,333.00;294.80,262.00;340.00,262.60;340.60,333.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="288.27" ytl="253.00" xbr="344.27" ybr="339.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="frame165_jpg.rf.1354354aa64e853fb37ef2ee56566620.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="293.70,333.00;294.80,262.00;340.00,262.60;340.60,333.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="290.00" ytl="253.00" xbr="346.00" ybr="339.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="frame167_jpg.rf.aaaa7ea8b4d98cb759726138ea8a2f1f.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="293.70,333.00;294.80,262.00;340.00,262.60;340.60,333.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="290.00" ytl="254.00" xbr="346.00" ybr="340.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="frame168_jpg.rf.a67861a39d069fd62752d07d6bc530aa.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="293.70,333.00;294.80,262.00;340.00,262.60;340.60,333.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="288.00" ytl="252.00" xbr="344.00" ybr="338.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="frame169_jpg.rf.e5f76b7a47d65dc4e4db7831f73c78ed.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="295.00,329.80;295.40,261.30;341.00,263.90;340.60,332.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="289.00" ytl="251.00" xbr="345.00" ybr="337.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="frame170_jpg.rf.3eb30f0c221ef66fb968b5a7c4a4dc42.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="295.00,329.80;295.40,261.30;341.00,263.90;340.60,332.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="290.00" ytl="252.00" xbr="346.00" ybr="338.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="frame171_jpg.rf.a2bea2576942f573470665a381263043.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="295.00,329.80;295.40,261.30;341.00,263.90;340.60,332.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="291.00" ytl="252.00" xbr="347.00" ybr="338.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="frame173_jpg.rf.41dfc369ede0988871bea9b3bd9752aa.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="293.70,328.20;295.00,258.40;341.00,261.30;340.30,331.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="288.27" ytl="250.34" xbr="344.27" ybr="336.34" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="frame175_jpg.rf.f13762d0863f31dea46309547fd5778a.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="292.10,327.60;293.40,254.90;339.10,258.70;338.70,329.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="287.00" ytl="248.00" xbr="343.00" ybr="334.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="frame176_jpg.rf.462d5a2ddbbc8460543db7412a01c415.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="292.10,327.60;293.40,254.90;339.10,258.70;338.70,329.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="287.54" ytl="249.88" xbr="343.54" ybr="335.88" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="frame177_jpg.rf.56b8507ef4b0bea2ca3e7127f7cc8ef0.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="292.10,327.60;293.40,254.90;339.10,258.70;338.70,329.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="287.00" ytl="249.00" xbr="343.00" ybr="335.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="frame179_jpg.rf.82eaa71d658f534896491d6efdeaf93c.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="292.10,327.60;293.40,254.90;339.10,258.70;338.70,329.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="287.54" ytl="248.54" xbr="343.54" ybr="334.54" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="frame180_jpg.rf.4c07a6e9e4826de6bbf1aaa70b21aff3.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="292.10,327.60;293.40,254.90;339.10,258.70;338.70,329.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="288.00" ytl="249.00" xbr="344.00" ybr="335.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="frame181_jpg.rf.292881bb3dedb820333d00da52088062.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="292.10,327.60;293.40,254.90;339.10,258.70;338.70,329.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="286.00" ytl="248.00" xbr="342.00" ybr="334.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="frame184_jpg.rf.e2bc4b56cee67f7fc86064f6a8d844eb.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="292.10,327.60;293.40,254.90;339.10,258.70;338.70,329.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="287.42" ytl="250.30" xbr="343.42" ybr="336.30" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="frame185_jpg.rf.b7d52ef3321ea6ed08a45e3758c94e5c.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="292.10,327.60;293.40,254.90;339.10,258.70;338.70,329.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="288.00" ytl="251.00" xbr="344.00" ybr="337.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="frame187_jpg.rf.68908d458f3e0974a0c02a3cdc10bef0.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="292.70,324.70;292.40,251.70;338.50,253.90;339.70,327.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="286.12" ytl="244.66" xbr="342.12" ybr="330.66" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="frame189_jpg.rf.7ac6c935a47a4a910c9bdf9bffd53405.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="291.70,321.80;291.80,249.10;337.90,252.00;338.70,323.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="286.00" ytl="241.00" xbr="342.00" ybr="327.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="frame190_jpg.rf.57ba341706e47a2206a9175a381d8aa0.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="291.70,321.80;291.80,249.10;337.90,252.00;338.70,323.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="287.22" ytl="242.27" xbr="343.22" ybr="328.27" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="frame191_jpg.rf.022b538b05d1f924ea0f89893c5f5ebc.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="291.70,321.80;291.80,249.10;337.90,252.00;338.70,323.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="288.00" ytl="240.00" xbr="344.00" ybr="326.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="frame192_jpg.rf.99e1f5aab4d11f30defbcb70278abb9f.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="290.60,319.90;291.50,247.20;337.60,250.10;337.40,322.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="286.04" ytl="240.00" xbr="342.04" ybr="326.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="frame193_jpg.rf.1f36ad2a7ccb5162f4a4a60f951462f8.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="290.60,319.90;291.50,247.20;337.60,250.10;337.40,322.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="286.00" ytl="239.00" xbr="342.00" ybr="325.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="frame194_jpg.rf.9facca7d61e6fddf26d8ac9a0928e861.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="290.60,319.90;291.50,247.20;337.60,250.10;337.40,322.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="285.73" ytl="239.81" xbr="341.73" ybr="325.81" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="frame195_jpg.rf.f7835d2ad524ea06981943c3218ffc6f.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="289.80,317.70;290.20,245.10;336.50,247.40;336.60,318.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="284.54" ytl="238.59" xbr="340.54" ybr="324.59" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="frame196_jpg.rf.5cc395ab00afecf344e083b8c2651ca9.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="289.50,317.20;290.40,244.20;335.70,247.10;335.80,318.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="283.00" ytl="236.00" xbr="339.00" ybr="322.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="frame197_jpg.rf.6d9fbe4c6ca8cfc1cb0287dbdfd804b0.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="289.50,317.20;290.40,244.20;335.70,247.10;335.80,318.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="281.00" ytl="237.00" xbr="337.00" ybr="323.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="frame198_jpg.rf.ff5523d34c793ef46e76fd360de4bcfc.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="288.20,316.40;288.00,244.20;334.10,247.10;335.00,318.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="283.34" ytl="237.71" xbr="339.34" ybr="323.71" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="frame200_jpg.rf.9fb170715f4a36dd78981bf2c8609735.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="288.20,319.10;286.40,246.90;334.10,247.10;333.70,319.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="281.00" ytl="240.00" xbr="337.00" ybr="326.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="frame202_jpg.rf.0e79cc11cc9ef119710cce55b40e1510.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="287.70,319.10;286.70,247.70;334.40,248.40;335.30,319.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="282.22" ytl="240.07" xbr="338.22" ybr="326.07" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="frame204_jpg.rf.05092c94cc3df925873cdcb19c01e9f9.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="287.20,318.30;285.90,247.20;333.10,248.40;333.70,318.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="281.34" ytl="240.15" xbr="337.34" ybr="326.15" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="frame205_jpg.rf.a5a30b26a024a1cc85b769fb971dd199.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="287.20,318.30;285.90,247.20;333.10,248.40;333.70,318.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="281.15" ytl="240.61" xbr="337.15" ybr="326.61" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="frame207_jpg.rf.cc27c1eeed24da6e7edeab6a72b1b7d2.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="286.40,315.90;285.60,242.60;333.10,245.70;333.70,317.20" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="280.73" ytl="236.85" xbr="336.73" ybr="322.85" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="frame209_jpg.rf.aaec0f3f7c8c22712d5387bd012ff04e.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="288.00,314.60;287.50,242.60;333.90,245.20;334.80,316.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="281.95" ytl="237.27" xbr="337.95" ybr="323.27" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="frame210_jpg.rf.02570c88fe9947bec353f1dbdad819db.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="288.50,313.00;289.10,241.80;334.20,244.70;335.60,314.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="282.81" ytl="235.31" xbr="338.81" ybr="321.31" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="frame212_jpg.rf.eebec26a8faa7fbede2941f009d284e0.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="289.30,312.20;289.60,239.70;336.30,241.70;337.50,313.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="283.15" ytl="234.00" xbr="339.15" ybr="320.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="frame213_jpg.rf.0955cc2d1c048fed58b31c9497839959.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="289.30,312.20;289.60,239.70;336.30,241.70;337.50,313.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="285.49" ytl="233.58" xbr="341.49" ybr="319.58" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="frame214_jpg.rf.adcf1bccf04467df302a0141502f48bd.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="290.40,310.90;289.60,239.70;336.30,241.70;337.50,313.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="286.00" ytl="231.81" xbr="342.00" ybr="317.81" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="frame216_jpg.rf.3c0ab903331a4c1d91de0d0c9f25f778.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="290.40,310.90;289.60,239.70;336.30,241.70;337.50,313.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="284.93" ytl="232.00" xbr="340.93" ybr="318.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="frame217_jpg.rf.c9e5e92047a5efc614ff9dfccc01c7df.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="290.40,310.90;289.60,239.70;336.30,241.70;337.50,313.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="283.00" ytl="233.00" xbr="339.00" ybr="319.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="frame218_jpg.rf.7c5fd59b9f5954e9a58658f5cab2233e.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="290.40,310.90;289.60,239.70;336.30,241.70;337.50,313.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="285.42" ytl="233.27" xbr="341.42" ybr="319.27" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="frame219_jpg.rf.656829ab1083fb4daa5cf19845072d3d.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="290.90,310.90;290.70,240.00;337.90,241.40;339.40,313.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="287.27" ytl="232.00" xbr="343.27" ybr="318.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="frame220_jpg.rf.2acc43d35b8dfacc26d68d29617fe24e.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="291.70,312.50;290.70,240.00;337.90,241.40;339.70,313.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="289.00" ytl="232.00" xbr="345.00" ybr="318.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="frame221_jpg.rf.af407750e29c6c61ca3bab5318cb8d02.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="293.00,312.20;291.80,240.50;339.20,242.70;340.20,313.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="287.66" ytl="232.30" xbr="343.66" ybr="318.30" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="frame222_jpg.rf.07f04f1e69e99e07bc31dc8ed17d684a.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="293.20,315.80;293.40,241.80;340.50,242.70;342.00,317.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="289.00" ytl="232.00" xbr="345.00" ybr="318.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="frame223_jpg.rf.979284b8893ccb14141d8845c4a868a0.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="295.90,317.90;295.90,245.30;343.40,246.30;343.90,319.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="290.81" ytl="239.42" xbr="346.81" ybr="325.42" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="frame224_jpg.rf.8ec9fcd71a35c26ddcf58b6808a06c2b.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="297.80,319.10;297.80,246.10;345.30,246.90;345.80,319.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="290.00" ytl="239.00" xbr="346.00" ybr="325.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="frame225_jpg.rf.94ece931c7d020d2bc7971865c362ee0.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="299.50,317.40;299.40,245.00;347.20,246.40;348.00,318.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="295.07" ytl="239.73" xbr="351.07" ybr="325.73" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="frame229_jpg.rf.87d83b6f20b042f7214af2bf943204e3.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="314.20,323.90;314.00,249.40;362.50,251.70;362.80,324.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="310.81" ytl="246.93" xbr="366.81" ybr="332.93" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="frame234_jpg.rf.eeb65a1e69f375c634421eca37f1c901.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="349.30,315.40;350.30,242.40;400.10,245.00;399.60,318.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="344.66" ytl="236.90" xbr="404.33" ybr="320.94" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="frame235_jpg.rf.c4c7226f02698bd43395e9cd3a4a01c5.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="356.00,314.90;357.60,240.20;407.90,242.80;407.20,319.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="351.50" ytl="235.06" xbr="411.51" ybr="322.65" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="frame236_jpg.rf.a2c46023d3a05e966ba1902e27af5e9c.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="364.20,315.50;364.80,241.20;416.40,242.80;416.40,320.20" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="359.79" ytl="235.77" xbr="422.00" ybr="323.67" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="frame237_jpg.rf.aa61cce72fcc8788aa73cc7c857642e5.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="373.90,319.00;374.30,242.10;428.50,245.30;427.20,322.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="369.34" ytl="238.73" xbr="431.34" ybr="325.73" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="frame238_jpg.rf.40ef7d047edc5256e93a6fa955aaee0c.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="383.00,321.10;384.00,246.70;437.00,247.20;436.50,324.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="379.34" ytl="240.27" xbr="441.34" ybr="327.27" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="frame241_jpg.rf.d6b4b509a63760f956a51e85e01fc3f0.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="405.80,330.70;407.00,255.00;464.60,254.70;464.40,334.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="401.66" ytl="247.37" xbr="468.99" ybr="338.69" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="frame243_jpg.rf.0377c253d0cb5a33dab180bf546137bf.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="418.00,335.20;418.90,257.70;480.10,257.10;479.00,339.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="413.57" ytl="251.56" xbr="485.47" ybr="343.79" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="frame244_jpg.rf.91bd3624bd2a920b357b5b0d7dba9d99.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="422.20,337.30;424.00,260.10;484.40,260.10;484.20,343.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="417.34" ytl="253.12" xbr="488.34" ybr="345.12" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="frame246_jpg.rf.9e51260122912bd58869d28354720dc4.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="428.80,342.70;430.90,263.10;492.50,263.90;492.50,348.20" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="424.62" ytl="256.57" xbr="499.62" ybr="354.27" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="frame247_jpg.rf.38560b55db6071f422025787969ddaed.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="430.60,343.10;432.00,264.20;495.10,264.90;495.00,349.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="424.63" ytl="253.72" xbr="499.61" ybr="352.86" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="frame250_jpg.rf.23cd94e5521e7151925626e4171f25ef.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="434.90,343.80;435.60,265.30;499.80,266.00;500.40,351.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="430.49" ytl="255.24" xbr="504.49" ybr="354.24" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="frame254_jpg.rf.5d3a724fbcc916e08451a2e4cfc998d0.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="437.00,344.20;437.40,264.90;503.40,266.00;503.30,350.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="431.29" ytl="252.83" xbr="508.48" ybr="353.23" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="frame259_jpg.rf.ed10cb8d3aae9992a9cca55c68295141.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="424.80,342.40;426.30,263.80;488.70,263.10;489.00,347.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="419.42" ytl="252.42" xbr="496.42" ybr="352.42" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="frame261_jpg.rf.40f4af7f0e1b4b7fa686514583750904.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="418.00,342.80;418.00,263.40;479.40,263.10;479.30,345.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="413.00" ytl="249.00" xbr="490.00" ybr="349.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="frame262_jpg.rf.796e62b0f169c433ec3f8d171240bb93.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="413.10,339.00;413.50,260.40;472.90,261.00;473.20,343.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="406.00" ytl="246.00" xbr="483.00" ybr="346.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="frame263_jpg.rf.e478a8128c4a12231c4fb0714d63ba58.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="407.50,339.90;408.80,260.40;466.40,261.40;466.80,343.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="399.00" ytl="248.00" xbr="476.00" ybr="348.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="frame265_jpg.rf.00993ec13f4ff35e6f39679479fd6884.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="394.90,342.20;396.30,264.70;451.50,263.30;452.00,345.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="388.00" ytl="248.00" xbr="465.00" ybr="348.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="frame266_jpg.rf.86a59ea3035715c5defca79887dd4093.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="387.00,339.20;388.00,262.30;442.30,262.30;442.90,343.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="380.00" ytl="249.00" xbr="457.00" ybr="349.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="frame267_jpg.rf.9d9b92f595a2f6afdca85cd14f8999f4.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="381.00,340.50;381.70,262.60;434.80,261.90;435.80,342.20" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="370.00" ytl="246.00" xbr="447.00" ybr="346.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="frame268_jpg.rf.4c002f8f9438aff6873e26dda975f352.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="375.10,339.90;374.50,263.10;428.00,263.20;428.70,342.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="365.00" ytl="248.00" xbr="442.00" ybr="348.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="frame270_jpg.rf.5c0a029f7dae0db67e34fbf73db5fa2e.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="361.90,341.60;361.90,264.70;414.30,264.40;414.50,343.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="351.00" ytl="249.00" xbr="428.00" ybr="349.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="frame271_jpg.rf.8b5cd0a5417a1cb69b23a4275e811bd4.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="356.20,342.30;355.90,266.20;408.10,265.90;408.30,343.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="345.00" ytl="250.00" xbr="422.00" ybr="350.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="frame275_jpg.rf.818923d99c80c8e0ca77eea6030c5cce.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="333.60,349.00;334.00,272.40;383.40,272.50;384.30,349.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="322.00" ytl="256.00" xbr="399.00" ybr="356.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="frame277_jpg.rf.4922087a557314f510a743fa41bcf8da.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="319.60,351.90;319.40,275.40;368.70,277.10;369.90,353.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="307.39" ytl="261.03" xbr="384.39" ybr="361.03" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="frame278_jpg.rf.ffa700a322fa850ba49951257766d938.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="311.70,351.70;312.10,275.40;361.00,275.60;362.00,351.20" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="300.00" ytl="259.00" xbr="377.00" ybr="359.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="frame279_jpg.rf.8b63d46a54792dcdd5eb34da1f9b0bd4.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="302.20,350.20;301.90,273.70;351.30,273.90;352.30,351.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="291.00" ytl="259.00" xbr="368.00" ybr="359.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="frame280_jpg.rf.1e376d2625af8903b43b2446dfeed88c.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="293.50,351.00;292.80,272.90;342.80,274.50;343.00,351.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="281.00" ytl="258.00" xbr="358.00" ybr="358.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="frame281_jpg.rf.c07bdbf0ae676b3e5be817f1774ed8c5.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="286.20,351.20;286.00,274.80;335.80,276.00;336.40,352.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="275.00" ytl="259.00" xbr="352.00" ybr="359.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="135" name="frame283_jpg.rf.d2636edec8dbfa07e7f803082471745b.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="269.20,351.40;268.40,273.60;318.40,275.60;319.40,350.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="258.00" ytl="259.00" xbr="335.00" ybr="359.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="136" name="frame286_jpg.rf.576733971e130a08631a915c222b2c61.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="242.90,354.70;242.10,275.50;293.10,276.20;294.50,354.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="234.00" ytl="263.00" xbr="311.00" ybr="363.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="137" name="frame287_jpg.rf.9f10bd2d4f63f11aa09ffb8f5c8b06fa.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="233.40,354.90;232.40,274.30;285.90,277.70;286.30,354.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="224.00" ytl="263.00" xbr="301.00" ybr="363.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="138" name="frame291_jpg.rf.f032b193c25a1cc24c70862ef089da40.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="201.40,353.90;201.50,272.20;256.50,276.40;257.50,354.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="188.18" ytl="260.36" xbr="265.18" ybr="360.36" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="139" name="frame292_jpg.rf.ec8439b6587bb6f7aad944b2e2f51b00.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="193.70,353.20;193.00,271.20;249.30,274.40;250.50,352.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="181.00" ytl="257.00" xbr="258.00" ybr="357.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="140" name="frame296_jpg.rf.93e651ee14b36cab556331ac383708cf.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="170.10,355.90;168.60,273.10;228.10,273.90;230.60,352.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="158.00" ytl="262.00" xbr="235.00" ybr="362.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="frame299_jpg.rf.f64764f311ec7fab631d88624ad64bd1.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="154.50,359.10;153.30,273.90;216.60,276.90;219.10,355.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="146.49" ytl="264.81" xbr="223.49" ybr="364.81" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="142" name="frame300_jpg.rf.dceb79f625515a844d708737dd2838ae.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="150.20,359.80;149.50,274.10;213.20,275.30;214.80,356.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="136.68" ytl="269.72" xbr="226.92" ybr="366.89" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="frame301_jpg.rf.f265fcf19a13295a8bf05e608d35705d.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="148.30,361.80;146.20,276.50;210.70,277.40;213.70,357.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="136.00" ytl="265.93" xbr="220.70" ybr="365.93" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="144" name="frame302_jpg.rf.19c920c48eb0f969e892631404c1222a.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="146.50,362.70;144.20,277.00;209.80,277.40;212.10,359.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="135.57" ytl="266.91" xbr="219.57" ybr="366.91" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="145" name="frame303_jpg.rf.2c8844d1c50c8a161ea3f8e7f57c4277.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="145.40,364.30;143.50,276.80;209.10,277.40;211.20,360.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="134.34" ytl="268.24" xbr="218.34" ybr="368.24" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="146" name="frame306_jpg.rf.5edf6b62ad43a0e5e473a12f4d24f4d8.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="150.70,365.50;148.90,277.70;214.20,279.90;215.40,362.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="139.00" ytl="269.00" xbr="223.00" ybr="369.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="147" name="frame308_jpg.rf.ec6d4e7bd4f4121a34d19b96a7bd63c2.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="160.20,364.10;159.30,278.90;222.00,280.40;223.00,362.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="149.87" ytl="267.40" xbr="233.87" ybr="367.40" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="148" name="frame312_jpg.rf.4a3e71079f174a02e2a86c02ed6507ee.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="189.70,367.70;189.70,282.70;247.70,286.40;248.30,367.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="178.76" ytl="269.58" xbr="262.76" ybr="374.58" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="149" name="frame313_jpg.rf.264439b81189a642c8015858b26687ae.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="198.10,368.60;198.70,285.30;255.00,287.30;255.40,368.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="183.06" ytl="269.00" xbr="267.06" ybr="375.70" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="150" name="frame314_jpg.rf.785b06b3165579240c42138efd615510.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="206.10,368.80;206.50,286.20;261.50,289.00;262.30,369.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="190.06" ytl="270.00" xbr="274.06" ybr="376.60" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="151" name="frame316_jpg.rf.04688b3fdc302dd7457fc8be801648a4.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="221.20,370.70;221.10,289.00;275.10,291.10;275.20,370.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="204.06" ytl="271.00" xbr="288.06" ybr="377.30" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="152" name="frame317_jpg.rf.3203799272b5ef7c58216bb6169b5157.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="227.90,369.80;228.60,288.30;281.60,290.90;281.90,370.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="211.07" ytl="271.00" xbr="295.07" ybr="378.70" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="153" name="frame318_jpg.rf.e5f2a6e11eed3ea9212c44ef7c3af351.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="234.60,370.90;234.60,289.20;287.60,292.00;287.90,372.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="219.09" ytl="271.00" xbr="303.09" ybr="380.20" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="154" name="frame319_jpg.rf.3103c66199a1fce87f149b0ee1700c0a.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="243.40,373.90;243.60,292.90;295.60,295.50;295.70,374.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="229.06" ytl="277.57" xbr="310.65" ybr="382.57" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="155" name="frame322_jpg.rf.87e7d0d5170dc33c314d7371746fc590.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="263.40,370.50;263.60,291.00;314.80,292.10;314.90,371.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="247.02" ytl="274.37" xbr="331.02" ybr="383.47" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="156" name="frame326_jpg.rf.01b8c035ffb94fbd6ea22512a09a92ec.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="285.30,364.10;286.00,284.70;335.50,285.80;336.00,366.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="269.96" ytl="274.97" xbr="353.96" ybr="374.97" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="157" name="frame327_jpg.rf.22dff9b7351fdfe2ddf9a0b3b1b31103.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="286.90,361.20;287.70,282.60;337.90,283.90;338.20,364.20" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="271.21" ytl="272.95" xbr="355.21" ybr="372.95" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="158" name="frame328_jpg.rf.a151569e25439df454298e65cbac5c31.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="288.10,360.20;289.10,280.50;339.10,283.00;339.20,363.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="271.00" ytl="268.84" xbr="355.00" ybr="368.84" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="159" name="frame330_jpg.rf.bf4be9bb46f0d90f62485961b47061c2.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="290.30,359.00;291.70,280.00;341.50,282.30;341.30,362.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="275.69" ytl="268.26" xbr="359.69" ybr="368.26" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="160" name="frame331_jpg.rf.04dadeeaf5cd4b6ac0de79671f6b9cbc.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="291.30,359.20;291.70,280.00;341.50,282.30;341.50,362.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="276.86" ytl="269.57" xbr="360.86" ybr="369.57" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="161" name="frame332_jpg.rf.563b4dcabe2573c9b7540476c27bfaff.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="292.70,363.00;293.90,284.20;343.90,287.30;343.40,366.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="276.04" ytl="267.00" xbr="360.04" ybr="371.70" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="162" name="frame334_jpg.rf.47a766b23e729d809375079d14b3154f.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="294.90,368.70;296.00,287.80;346.50,289.90;346.20,370.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="277.05" ytl="271.00" xbr="361.05" ybr="376.10" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="163" name="frame335_jpg.rf.d73701696bc0da113f2346467331c1dd.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="295.90,368.70;297.00,288.70;347.40,291.10;346.70,371.20" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="278.90" ytl="277.36" xbr="362.90" ybr="377.36" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="164" name="frame337_jpg.rf.9694d2bdcddbdbaeac6b8dcbaa3aca7c.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="298.10,367.00;299.40,287.10;349.10,290.10;349.30,370.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="281.73" ytl="273.25" xbr="365.73" ybr="377.75" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="165" name="frame338_jpg.rf.2c53d3ae79305c2cab25af2e65d483d7.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="299.10,365.30;300.10,286.10;350.50,287.90;350.70,368.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="282.86" ytl="275.74" xbr="366.86" ybr="375.74" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="166" name="frame342_jpg.rf.21a672127caf59c84d0a8242b72bc6bd.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="303.20,361.80;304.20,282.30;355.00,284.60;354.80,365.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="287.38" ytl="269.84" xbr="371.38" ybr="369.84" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="167" name="frame343_jpg.rf.84d5121b3c5c928d5a6c019504f63995.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="304.90,361.60;305.40,282.00;356.70,283.60;356.20,364.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="291.25" ytl="271.28" xbr="375.25" ybr="371.28" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="168" name="frame344_jpg.rf.7f4f09508ef1450408c049f98087e0e3.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="306.30,360.00;306.30,280.60;357.40,282.20;357.40,362.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="288.87" ytl="268.15" xbr="372.87" ybr="372.15" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="169" name="frame345_jpg.rf.2eee2f26626d4c118cdc05afe5c41b4a.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="307.30,356.00;308.20,278.50;358.40,280.30;359.10,360.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="293.07" ytl="266.84" xbr="377.07" ybr="370.14" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="170" name="frame346_jpg.rf.c7ad12da929fa708f5187e0da7a79da1.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="309.30,354.40;309.90,275.70;360.00,277.50;360.70,357.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="294.07" ytl="264.15" xbr="378.07" ybr="364.15" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="171" name="frame348_jpg.rf.49cc12d8850c3920ccc3fefacb0385bd.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="313.00,352.30;313.70,273.30;365.00,273.70;365.00,354.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="297.49" ytl="260.28" xbr="381.49" ybr="360.28" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="172" name="frame350_jpg.rf.a01e22569aefb4dab996cc5e8ef88db1.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="316.70,352.10;316.90,273.10;368.20,273.90;368.20,354.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="300.78" ytl="258.49" xbr="384.78" ybr="362.70" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="173" name="frame351_jpg.rf.e209bc46a28d279637c1e9ca050c8f67.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="317.60,351.80;318.70,273.00;369.60,273.20;370.10,355.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="303.74" ytl="261.24" xbr="387.74" ybr="361.24" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="174" name="frame352_jpg.rf.fd62dc3c9783d2dfe1a9ad055ff83775.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="320.30,352.40;320.20,272.20;371.90,273.00;371.90,355.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="303.90" ytl="262.90" xbr="387.90" ybr="362.90" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="175" name="frame353_jpg.rf.1be3f3a2cdc90a7a1071d6a3d22a8a71.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="321.20,352.60;321.40,272.20;372.90,272.80;373.50,355.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="306.11" ytl="262.32" xbr="390.11" ybr="362.32" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="176" name="frame354_jpg.rf.f98e7f21faca50c0fb12b1f775191f86.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="323.10,351.70;323.30,272.00;374.50,272.60;375.10,354.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="308.41" ytl="259.76" xbr="392.41" ybr="362.40" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="177" name="frame359_jpg.rf.d5ac3d579fe3ad555c8d52bca36d30e8.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="327.90,346.00;327.60,265.30;380.00,265.50;380.50,348.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="312.07" ytl="253.94" xbr="396.07" ybr="357.07" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="178" name="frame361_jpg.rf.02ef4db19cee0fa6edf62d47fe8effc3.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="328.80,345.00;329.20,264.10;381.60,264.30;381.70,347.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="312.90" ytl="256.53" xbr="396.90" ybr="356.53" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="179" name="frame368_jpg.rf.c66c059b2685fab74a469e1dc16a1827.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="331.20,342.80;331.30,261.20;384.20,261.50;384.50,346.20" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="315.71" ytl="250.97" xbr="399.71" ybr="352.85" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="180" name="frame370_jpg.rf.490cc250ee71742ed8106d31ef1b9b89.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="331.90,344.50;332.00,262.90;385.20,263.70;384.80,346.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="316.04" ytl="249.00" xbr="400.04" ybr="353.30" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="181" name="frame371_jpg.rf.46638e87cbaaf5ff91ac722cffc41ee4.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="331.60,344.80;331.30,263.60;384.70,264.20;384.80,346.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="316.36" ytl="254.76" xbr="400.36" ybr="356.17" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="182" name="frame376_jpg.rf.ac786734326e3b84762d81164ef6949c.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="327.80,346.00;328.50,264.50;382.10,265.90;381.50,350.20" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="313.21" ytl="256.46" xbr="397.21" ybr="356.46" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="183" name="frame377_jpg.rf.3b0e55ced26e24e97513ba2fda92dc15.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="327.60,346.00;328.50,264.50;381.10,266.10;380.90,349.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="313.03" ytl="252.00" xbr="397.03" ybr="355.30" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="184" name="frame379_jpg.rf.acae35a3ba3d0c28475ef561db2f31b8.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="325.20,348.00;325.70,265.50;378.20,267.50;378.50,351.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="309.02" ytl="254.00" xbr="393.02" ybr="356.40" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="185" name="frame380_jpg.rf.5f39f2645402c7de750d0919b6408983.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="324.00,347.10;324.50,264.80;376.50,266.30;377.50,350.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="313.37" ytl="256.45" xbr="391.97" ybr="359.30" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="186" name="frame389_jpg.rf.6fe51272ec87326ac4d14d7573096361.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="314.80,354.00;314.30,270.50;367.30,270.40;369.00,355.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="305.05" ytl="261.99" xbr="384.07" ybr="361.99" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="187" name="frame392_jpg.rf.5d542a88a090f26d25a6f911996e2847.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="314.80,360.20;314.10,277.60;367.30,277.10;368.70,362.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="302.98" ytl="270.12" xbr="384.38" ybr="370.12" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="188" name="frame393_jpg.rf.e5d39a3a1d240b185539b3a736bc106e.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="314.80,360.20;314.10,277.60;367.30,277.10;368.70,362.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="299.74" ytl="269.99" xbr="383.74" ybr="369.99" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="189" name="frame395_jpg.rf.583ee50e60574060b5e99e60867f796a.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="314.60,364.80;314.50,281.30;367.90,281.00;368.90,366.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="300.28" ytl="271.28" xbr="384.28" ybr="375.28" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="190" name="frame396_jpg.rf.f4837284f794ffbb2497431130282896.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="314.60,364.80;314.70,282.30;367.90,281.20;368.90,365.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="300.00" ytl="271.00" xbr="384.00" ybr="371.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="191" name="frame397_jpg.rf.38d967a9f7c12c812749a2574c63ceac.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="315.20,364.80;315.10,281.90;367.90,281.20;370.10,365.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="302.07" ytl="270.45" xbr="386.07" ybr="370.45" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="192" name="frame402_jpg.rf.3978f91cb1d5e544b41ddb1900dd4469.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="315.40,354.80;314.90,270.90;369.80,271.70;369.90,357.20" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="301.05" ytl="260.00" xbr="385.05" ybr="365.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="193" name="frame405_jpg.rf.384865827fb568fb20c36e672cc6813f.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="316.90,351.90;317.80,267.00;371.90,267.80;371.60,354.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="304.28" ytl="255.62" xbr="388.28" ybr="359.60" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="194" name="frame406_jpg.rf.3e7fb677a1d0d837c502860e9070ce02.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="318.20,350.70;319.00,267.00;372.70,267.60;372.80,354.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="305.06" ytl="255.00" xbr="389.06" ybr="361.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="195" name="frame408_jpg.rf.df319371969697af88140194d9b08924.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="319.00,349.50;319.60,264.90;374.00,265.90;374.50,352.20" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="306.03" ytl="255.00" xbr="390.03" ybr="357.90" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="196" name="frame412_jpg.rf.bf24239754853acc8ca750cccc26759f.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="320.90,354.30;320.40,268.60;375.00,268.20;375.70,355.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="306.07" ytl="256.00" xbr="390.07" ybr="363.50" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="197" name="frame416_jpg.rf.77045ecc28ea5b541b9babb6466cb368.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="315.50,350.20;315.80,264.20;369.80,265.50;370.90,353.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="301.08" ytl="252.00" xbr="385.08" ybr="360.30" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="198" name="frame418_jpg.rf.be13622dc3c38a2568a8281fbebee4d3.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="315.50,350.20;316.60,265.20;370.80,267.20;370.70,354.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="302.06" ytl="257.00" xbr="386.06" ybr="363.40" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="199" name="frame419_jpg.rf.7ed6e80dfa2c7fbc9c0401244cdcaf69.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="315.70,354.10;317.00,268.30;372.30,271.30;371.70,358.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="304.07" ytl="259.00" xbr="388.07" ybr="366.70" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="200" name="frame422_jpg.rf.150eb0f43cee546e9e07e8eb67c5bf82.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="317.00,364.20;317.80,277.40;372.70,278.60;372.90,367.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="303.07" ytl="267.00" xbr="387.07" ybr="373.90" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="201" name="frame427_jpg.rf.616abd1a89d4dde5830b68a2dbd7e780.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="312.20,362.10;312.40,275.10;366.70,276.30;368.30,365.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="299.07" ytl="265.00" xbr="383.07" ybr="372.50" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="202" name="frame431_jpg.rf.a2a953daca28dbc19583dbf894950c17.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="310.40,362.80;310.40,275.30;366.50,275.40;366.70,364.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="296.11" ytl="265.00" xbr="380.11" ybr="376.70" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="203" name="frame433_jpg.rf.93577770acb17a45ed024d335360861c.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="309.10,362.40;309.10,274.20;364.30,273.80;366.30,363.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="295.08" ytl="263.00" xbr="379.08" ybr="371.50" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="204" name="frame436_jpg.rf.c09bf28dfd4dd1f6c01a1d797df63af3.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="306.90,363.30;305.70,274.90;361.20,273.60;363.60,363.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="292.08" ytl="265.00" xbr="376.08" ybr="372.90" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="205" name="frame443_jpg.rf.c34bbae11bad04a96f2d49ff48ecf58d.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="305.10,370.20;303.00,281.20;359.00,278.30;362.70,368.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="290.06" ytl="271.00" xbr="374.06" ybr="377.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="206" name="frame444_jpg.rf.7fe8536ad99a9964b2b48ba1fe50904a.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="305.10,370.20;303.20,280.50;359.00,278.30;362.50,368.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="291.11" ytl="271.00" xbr="375.11" ybr="382.50" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="207" name="frame446_jpg.rf.6dedd3ad80ef851b69df033faa074d9c.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="304.90,368.40;303.20,278.30;359.20,276.50;362.70,367.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="291.08" ytl="269.00" xbr="375.08" ybr="377.50" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="208" name="frame447_jpg.rf.a4a9c55912873b365c6d5a26f25f0dc3.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="305.60,368.60;303.90,278.30;360.50,275.80;362.90,367.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="291.06" ytl="270.00" xbr="375.06" ybr="375.90" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="209" name="frame448_jpg.rf.bd6bcb32adcfaab7c03f6efd5b62e709.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="305.20,366.40;303.50,276.30;360.10,274.00;363.30,364.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="291.08" ytl="267.00" xbr="375.08" ybr="375.10" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="210" name="frame451_jpg.rf.8440efbc32bcb9e58bf45efa9d1cd53d.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="306.80,364.20;304.80,273.40;362.30,270.60;364.60,362.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="291.18" ytl="263.00" xbr="375.18" ybr="381.80" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="211" name="frame452_jpg.rf.7ad8a349f64ea2c9871fd0d443e08512.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="306.80,364.20;304.80,272.70;362.10,268.80;365.50,361.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="292.11" ytl="262.00" xbr="376.11" ybr="373.20" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="212" name="frame453_jpg.rf.41610d75360e9524cd6be69d6d33c915.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="307.90,364.00;305.20,272.50;363.70,269.70;366.20,361.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="293.11" ytl="264.00" xbr="377.11" ybr="375.90" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="213" name="frame455_jpg.rf.8049de5b46e41b4c3d1ebd953fdc672f.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="307.90,364.00;305.20,272.50;363.50,268.80;366.60,362.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="294.09" ytl="264.00" xbr="378.09" ybr="373.60" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="214" name="frame456_jpg.rf.d0266173baf10a9ccf990d7dacc62759.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="309.20,364.40;306.10,273.00;364.40,269.70;367.90,362.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="295.12" ytl="264.00" xbr="379.12" ybr="376.60" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="215" name="frame459_jpg.rf.171197a015bcecf451279b3776a9c8b2.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="310.10,365.50;307.90,274.10;366.20,270.80;369.50,364.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="296.12" ytl="266.00" xbr="380.12" ybr="378.40" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="216" name="frame462_jpg.rf.2172d0c5d19a0dbf4343520ee8282488.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="307.90,364.40;306.80,272.30;366.20,270.80;367.50,364.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="295.10" ytl="263.00" xbr="379.10" ybr="373.10" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="217" name="frame465_jpg.rf.a1d55b1aa86d9adb26c1cd96e467582f.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="306.30,363.50;305.90,272.80;364.90,272.40;365.00,366.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="293.10" ytl="264.54" xbr="377.10" ybr="374.64" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="218" name="frame467_jpg.rf.e2ffb15833177893cc2a0411fdae8e0b.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="304.70,360.40;305.50,268.10;364.00,269.70;364.60,363.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="292.11" ytl="261.00" xbr="376.11" ybr="372.20" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="219" name="frame469_jpg.rf.0bd87d3e4b4e5a8a074fdf64a8f9d38f.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="304.30,365.80;304.80,271.70;363.30,272.80;363.90,367.20" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="291.10" ytl="266.00" xbr="375.10" ybr="376.60" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="220" name="frame471_jpg.rf.6c7afe788ca8771803e7fc0c76057d26.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="305.00,369.40;305.20,276.20;363.50,275.50;365.50,370.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="291.86" ytl="269.10" xbr="375.86" ybr="377.88" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="221" name="frame474_jpg.rf.a76fcb9ff1f4567284f49ccd71c56d1d.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="305.00,369.40;305.20,276.20;363.50,275.50;365.50,370.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="291.12" ytl="268.00" xbr="375.12" ybr="380.20" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="222" name="frame476_jpg.rf.48f0b69d1847e633bdb9c71670a13810.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="306.30,375.90;305.00,281.30;365.30,280.00;367.50,376.20" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="293.15" ytl="272.00" xbr="377.15" ybr="387.50" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="223" name="frame478_jpg.rf.a6fc4f9859a2a41e3443d2d5739274d9.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="305.90,377.70;305.00,283.80;365.70,281.80;367.30,377.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="294.14" ytl="276.00" xbr="378.14" ybr="390.60" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="224" name="frame487_jpg.rf.dbfcd7a1bea83e393cb68bda20d859f9.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="310.20,375.20;308.40,280.90;368.40,276.90;372.40,374.20" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="297.18" ytl="273.00" xbr="381.18" ybr="391.90" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="225" name="frame492_jpg.rf.ddc750d4c3792dfa352d6777c9c4af53.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="315.30,370.70;312.90,274.20;374.70,269.70;378.00,367.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="302.14" ytl="266.00" xbr="386.14" ybr="381.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="226" name="frame501_jpg.rf.16c1bae1749d29618911524e8ef56e97.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="315.30,371.80;311.60,275.80;373.40,269.30;378.20,366.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="303.06" ytl="260.50" xbr="387.06" ybr="383.40" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="227" name="frame502_jpg.rf.a1aa1e5e84fa480e90c1fb61f8af8af4.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="314.90,372.50;311.60,275.80;373.40,269.30;378.20,366.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="300.80" ytl="263.03" xbr="384.80" ybr="378.23" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="228" name="frame503_jpg.rf.8680b33812c56c77b057b5847fc2f783.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="314.50,375.00;310.70,277.10;373.40,270.20;378.40,370.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="301.62" ytl="263.01" xbr="385.62" ybr="383.40" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="229" name="frame504_jpg.rf.eca3ffdc39f92f04b748865e237adfbd.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="314.30,375.40;310.70,277.10;373.40,270.20;378.00,370.20" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="301.14" ytl="262.50" xbr="385.14" ybr="394.10" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="230" name="frame506_jpg.rf.73d8f006506416d360138b12f78e465b.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="313.20,375.20;310.30,276.20;372.70,270.40;377.30,370.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="302.03" ytl="262.50" xbr="386.03" ybr="382.60" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="231" name="frame507_jpg.rf.ebdcae39a06070794123b2fe1febe7cd.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="311.90,375.20;309.90,276.00;372.70,270.40;376.40,371.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="300.10" ytl="265.20" xbr="384.10" ybr="387.30" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="232" name="frame512_jpg.rf.08c3b1693aa85e507298bd2478cbe9ac.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="310.60,375.20;309.90,276.00;372.50,272.90;375.30,374.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="300.52" ytl="266.07" xbr="384.52" ybr="384.97" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="233" name="frame513_jpg.rf.b8de88d895bf5e34913ff217c252eb5a.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="310.40,375.40;309.50,276.40;372.50,274.00;374.90,375.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="299.15" ytl="266.90" xbr="383.15" ybr="388.80" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="234" name="frame515_jpg.rf.bd9a684f94209bb6549bccc8000ec907.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="309.30,372.50;308.80,272.80;372.70,272.90;374.70,375.20" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="298.85" ytl="264.70" xbr="382.85" ybr="386.71" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="235" name="frame517_jpg.rf.d792e542cc0c0072a6c9cfd3a86040c5.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="309.30,371.40;309.50,270.10;373.60,270.70;374.50,373.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="299.97" ytl="261.07" xbr="383.97" ybr="381.87" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="236" name="frame519_jpg.rf.815772e88c28c82646bc735c45403a12.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="309.30,370.70;309.50,270.10;373.60,270.70;375.20,373.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="301.12" ytl="262.90" xbr="385.12" ybr="382.10" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="237" name="frame529_jpg.rf.61c16cb2787e1df79e0bc97f7ad006e3.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="313.80,372.70;312.20,271.00;377.20,266.00;380.80,371.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="304.71" ytl="260.37" xbr="388.71" ybr="379.27" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="238" name="frame531_jpg.rf.42a18be765bed77dedd7bdc0ca03763c.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="313.80,368.70;312.90,265.90;377.60,264.20;381.00,368.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="304.86" ytl="256.28" xbr="388.86" ybr="377.28" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="239" name="frame533_jpg.rf.9180bca8d241325af2c8251afaa70bc1.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="314.00,366.50;313.30,263.00;378.70,261.30;381.70,366.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="306.10" ytl="254.10" xbr="390.10" ybr="374.40" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="240" name="frame534_jpg.rf.9487677b1b8dac6d3c8bf44f29634075.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="313.30,365.20;312.90,261.40;378.70,259.70;381.00,365.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="303.28" ytl="253.23" xbr="387.28" ybr="378.93" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="241" name="frame535_jpg.rf.e6562aeb53c6f7621ed0a903d2c2c2ae.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="313.30,362.50;313.10,259.60;378.90,258.40;380.80,365.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="306.16" ytl="253.10" xbr="390.16" ybr="375.30" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="242" name="frame539_jpg.rf.857b399921d7d42e58050f2f8bd3d3bc.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="313.30,362.50;313.10,259.60;378.90,258.40;380.80,365.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="304.05" ytl="251.10" xbr="388.05" ybr="373.70" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="243" name="frame541_jpg.rf.bbeddf3de932fe8510ae3b281a710e72.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="313.30,364.70;311.80,261.20;378.50,258.20;380.80,365.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="304.10" ytl="250.60" xbr="388.10" ybr="376.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="244" name="frame543_jpg.rf.6ee5a6fd4331f9be40554d674a3fa1a4.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="311.70,365.60;310.00,261.00;376.70,258.00;379.90,365.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="302.51" ytl="252.65" xbr="386.51" ybr="374.05" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="245" name="frame544_jpg.rf.0688d0dda8cb43bb71c1063866329f85.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="309.90,367.40;309.60,262.30;376.30,260.50;378.10,367.20" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="302.13" ytl="251.71" xbr="386.53" ybr="375.20" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="246" name="frame545_jpg.rf.781e457a4ea3f2d57aad648166f993b8.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="309.70,370.50;308.00,266.80;374.70,262.70;378.10,370.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="300.60" ytl="253.56" xbr="385.40" ybr="379.99" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="247" name="frame546_jpg.rf.925d7806f78ab13bd0bd17ea93ab2ead.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="309.50,372.70;307.80,267.90;374.00,265.80;377.20,371.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="300.02" ytl="259.09" xbr="384.51" ybr="379.19" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="248" name="frame552_jpg.rf.6ac34052b4970dfde0c1fead4d42aacb.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="300.30,371.40;299.50,264.10;367.50,262.70;369.80,371.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="292.42" ytl="255.50" xbr="376.42" ybr="380.10" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="249" name="frame557_jpg.rf.bfbf952caf327c3abbafec844ab74518.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="299.60,371.20;298.60,263.00;365.90,260.70;369.60,370.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="292.74" ytl="254.77" xbr="376.74" ybr="380.57" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="250" name="frame559_jpg.rf.e682490cef7f0d9091eb7bc143f197d3.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="301.40,369.00;299.30,261.40;368.10,258.70;371.40,368.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="294.06" ytl="250.80" xbr="378.06" ybr="375.40" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="251" name="frame560_jpg.rf.82ebd8149daaa91dfa6b2d0a4de77008.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="302.30,368.80;300.60,260.50;369.00,258.00;372.30,368.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="291.97" ytl="245.65" xbr="381.07" ybr="381.60" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="252" name="frame564_jpg.rf.a864561dc698ca11f9b1617b47bbe2d7.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="305.70,370.50;303.70,260.30;373.50,258.00;376.30,370.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="298.35" ytl="249.42" xbr="384.03" ybr="377.42" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="253" name="frame568_jpg.rf.f80e5c52a699b209a52afe40658e9980.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="307.30,377.40;305.70,267.70;375.50,265.80;378.30,377.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="300.00" ytl="261.27" xbr="385.15" ybr="383.87" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="254" name="frame572_jpg.rf.c54b9c1d033afaff3bb6d613845c4ba5.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="302.40,384.80;302.30,273.70;372.10,274.30;374.00,387.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="294.78" ytl="262.23" xbr="381.96" ybr="395.60" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="255" name="frame573_jpg.rf.9aec6607f4068ef1c6cd44559526f4f6.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="299.90,384.10;301.40,273.30;371.40,274.50;372.40,388.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="291.62" ytl="265.02" xbr="382.33" ybr="395.42" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="256" name="frame578_jpg.rf.d6b0e887679af950303d1650adc307a7.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="296.30,375.10;297.60,263.90;367.80,266.00;369.00,379.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="287.46" ytl="255.27" xbr="379.16" ybr="392.97" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="257" name="frame580_jpg.rf.8ae91737ca1c0499f2577c09f015cca5.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="297.20,379.40;296.90,266.40;368.00,267.10;370.60,380.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="289.05" ytl="251.87" xbr="378.20" ybr="389.11" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="258" name="frame589_jpg.rf.5be2bb8c3e5223368e88f88b8ae1984f.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="298.10,386.10;294.90,273.10;366.70,265.80;372.80,383.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="287.09" ytl="258.17" xbr="379.09" ybr="397.70" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="259" name="frame590_jpg.rf.2e4641a5db9370d7695b4abedd01aeca.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="296.50,385.00;293.30,271.10;365.60,265.40;370.60,382.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="284.65" ytl="258.28" xbr="377.15" ybr="401.60" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="260" name="frame592_jpg.rf.03711f97754c07013430f7ce536528ef.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="292.20,382.50;290.20,268.20;362.50,265.00;367.00,380.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="281.19" ytl="252.37" xbr="375.09" ybr="396.07" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="261" name="frame593_jpg.rf.e0d928ffa609ef252fa9a040d66b9eb6.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="290.20,383.20;288.90,267.80;360.70,264.10;365.50,380.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="280.69" ytl="257.75" xbr="373.71" ybr="393.28" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="262" name="frame594_jpg.rf.47d9e9959dd0fe72cf31d19806e4c389.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="288.60,380.70;286.70,265.30;359.10,262.30;363.50,378.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="274.38" ytl="250.72" xbr="371.24" ybr="392.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="263" name="frame601_jpg.rf.51ee3fb7741b722508c69930c34a74ea.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="280.30,367.90;278.90,250.50;352.80,250.00;355.90,368.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="272.89" ytl="243.03" xbr="361.33" ybr="379.18" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="264" name="frame602_jpg.rf.3d995e70a47305376119f89e30b21ec6.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="281.60,372.60;279.60,255.00;353.70,253.10;357.00,371.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="268.68" ytl="232.71" xbr="365.63" ybr="383.49" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="265" name="frame605_jpg.rf.0f3de6680ba633158c78e9ee319b268e.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="284.60,383.60;283.10,265.20;356.90,261.40;362.10,380.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="276.70" ytl="248.26" xbr="369.62" ybr="393.38" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="266" name="frame606_jpg.rf.bc34521b9ee258c186c0e4a96a1782a5.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="285.40,380.60;283.10,262.20;358.00,259.00;362.60,378.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="276.50" ytl="249.89" xbr="371.40" ybr="391.08" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="267" name="frame612_jpg.rf.3eceb470084db6dfde0fc889c2e8e26c.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="289.20,380.90;289.00,261.40;363.60,260.90;366.90,381.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="276.51" ytl="239.23" xbr="376.37" ybr="394.08" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="268" name="frame614_jpg.rf.0e630aa0baddec175b2b76bfe4c0681c.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="288.40,379.00;288.20,258.40;363.60,257.90;366.40,380.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="278.86" ytl="245.50" xbr="376.62" ybr="395.68" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="269" name="frame617_jpg.rf.75a27a619e1f0f3ea5488018dda1c69a.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="285.40,382.00;285.50,260.50;362.00,260.60;364.30,383.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="274.54" ytl="244.14" xbr="373.14" ybr="403.10" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="270" name="frame627_jpg.rf.de0d33612301bf7980418971ff37dab2.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="286.50,372.10;284.70,249.80;363.90,247.40;366.40,372.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="271.22" ytl="235.16" xbr="378.71" ybr="397.96" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="271" name="frame629_jpg.rf.204ab7401298b2b2ad48a0bb17d28934.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="285.20,369.40;283.60,245.20;361.50,243.10;365.60,369.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="276.57" ytl="234.00" xbr="373.27" ybr="387.48" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="272" name="frame635_jpg.rf.459525edb2a93f61d99efbb9fcb5c3ce.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="282.00,370.20;279.80,245.70;359.40,242.80;362.90,368.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="265.74" ytl="227.91" xbr="378.76" ybr="399.31" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="273" name="frame636_jpg.rf.9ddfd2e298ba0cd97c8aadb361d05f9d.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="282.00,370.20;279.80,244.90;359.40,242.80;362.90,368.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="270.42" ytl="234.66" xbr="373.68" ybr="391.09" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="274" name="frame641_jpg.rf.2074dae446279592bf02fb3b784718a5.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="283.10,370.70;280.90,243.00;361.00,239.30;366.70,367.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="268.57" ytl="226.27" xbr="376.22" ybr="385.27" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="275" name="frame642_jpg.rf.b1caa415e2642cd5e587f591ac3764f4.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="283.10,370.70;280.90,243.00;361.00,239.30;365.40,368.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="270.77" ytl="233.04" xbr="375.24" ybr="386.97" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="276" name="frame645_jpg.rf.73c195396c76bcf4c3ba290d196b27ea.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="284.10,372.30;282.00,244.10;363.70,241.40;367.00,371.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="271.11" ytl="232.74" xbr="376.64" ybr="387.66" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="277" name="frame651_jpg.rf.c89d527c041e39cfd8b0769df9278384.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="285.20,378.70;285.50,248.70;367.70,250.00;369.10,381.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="273.70" ytl="228.59" xbr="383.12" ybr="404.04" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="278" name="frame654_jpg.rf.cd7a0f1e5c1cf9ad4d6bf97842863ddb.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="284.70,386.00;283.60,256.00;366.60,254.30;369.60,385.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="269.50" ytl="231.24" xbr="382.93" ybr="405.42" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="279" name="frame655_jpg.rf.7ff296e110cea9293de483a9580fafec.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="284.70,386.00;283.60,256.00;366.60,254.30;369.60,385.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="270.90" ytl="240.25" xbr="381.93" ybr="411.67" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="280" name="frame665_jpg.rf.bdc2405058b4a16fcb29cf812be4eed7.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="284.70,381.70;281.50,247.10;367.40,244.10;370.90,378.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="265.58" ytl="227.11" xbr="389.17" ybr="406.01" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="281" name="frame666_jpg.rf.f4f79b4a98964269749e6165bae1fb45.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="283.40,380.40;281.80,245.50;366.90,243.30;370.40,378.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="268.96" ytl="224.44" xbr="384.14" ybr="406.90" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="282" name="frame667_jpg.rf.dd2ab750ebe54fa6e15e8a38ccbc98fa.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="282.60,380.10;281.30,245.50;366.40,242.80;369.90,378.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="270.78" ytl="228.47" xbr="383.32" ybr="407.95" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="283" name="frame669_jpg.rf.ee4926e0326ecceb24aa3f51dc472170.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="279.90,381.20;277.50,246.30;363.20,243.60;367.20,380.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="267.46" ytl="233.13" xbr="377.49" ybr="405.82" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="284" name="frame672_jpg.rf.c569c95124268e085c9bd027c0af0c80.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="277.20,383.60;274.50,246.80;361.10,243.90;365.10,380.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="263.85" ytl="229.81" xbr="377.94" ybr="410.47" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="285" name="frame673_jpg.rf.779f08e7ab472b3c19f271b49958cb8c.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="277.20,383.60;274.50,246.80;361.10,243.90;365.10,380.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="257.20" ytl="229.09" xbr="382.86" ybr="414.80" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="286" name="frame677_jpg.rf.e49a85650d746b8b9aa651f23ef5d8f1.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="281.50,386.30;277.70,248.90;365.70,243.40;370.50,382.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="263.31" ytl="229.49" xbr="391.10" ybr="412.28" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="287" name="frame679_jpg.rf.960c5afbf8b0b08106bae545dff266ae.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="286.60,388.20;283.90,249.40;369.70,245.00;376.10,384.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="271.08" ytl="235.70" xbr="396.31" ybr="413.60" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="288" name="frame685_jpg.rf.4ae19b4b66e0514d8c1ccc15704dfded.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="310.50,391.40;308.10,253.70;397.40,248.50;402.20,390.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="285.37" ytl="222.69" xbr="420.57" ybr="423.59" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="289" name="frame688_jpg.rf.d4296497b62e2df7e72509bf3d3692a1.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="328.20,399.10;323.90,260.10;415.80,252.00;422.50,397.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="300.02" ytl="231.02" xbr="448.80" ybr="433.84" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="290" name="frame690_jpg.rf.071c6d34c505aa4fa1a7087276b949cb.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="340.80,400.10;336.80,259.50;430.90,250.70;438.00,399.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="320.75" ytl="229.25" xbr="458.55" ybr="429.26" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="291" name="frame691_jpg.rf.6fac369448284f58a0d63a1d3217db6a.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="347.20,401.40;342.60,261.40;437.70,251.30;445.40,399.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="319.68" ytl="210.41" xbr="473.07" ybr="441.02" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="292" name="frame697_jpg.rf.2692f5d63c65e72aba12879a069e2768.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="383.30,398.50;380.60,254.30;471.20,244.90;495.00,401.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="363.34" ytl="226.96" xbr="518.71" ybr="440.48" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="293" name="frame698_jpg.rf.679f6d35cbe3f488ccc88f5e9faa120f.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="390.10,398.80;387.00,254.90;496.00,243.00;504.70,404.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="374.06" ytl="232.77" xbr="530.73" ybr="440.89" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="294" name="frame700_jpg.rf.d31b354245fc6a31a9349d8886bfc672.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="404.00,395.50;398.70,252.10;514.90,236.80;526.40,402.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="382.28" ytl="216.24" xbr="554.66" ybr="468.94" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="295" name="frame704_jpg.rf.8e39463fc25194d83578199ea2616daf.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="432.70,398.80;426.50,250.10;554.90,231.20;572.60,401.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="404.33" ytl="215.02" xbr="586.65" ybr="453.20" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="296" name="frame707_jpg.rf.54225a7ea3c8bcf834db9448f0b66f98.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="458.10,399.50;449.90,247.40;602.40,223.80;623.50,407.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="431.37" ytl="211.25" xbr="636.96" ybr="447.52" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="359" name="frame897_jpg.rf.6b0d2c077605898030331d8d8f47ef6c.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="400.40,454.20;399.40,217.70;596.50,211.90;615.10,473.70" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="380.24" ytl="173.78" xbr="635.30" ybr="533.00" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="360" name="frame902_jpg.rf.c155ad151dfd4be82bb8ac58cbe08b5f.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="382.30,453.70;382.40,215.60;563.00,213.50;578.50,469.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="356.60" ytl="167.15" xbr="608.28" ybr="518.73" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="361" name="frame906_jpg.rf.e5f480dab66435fdaf84e31a2a057c1e.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="365.80,453.70;365.40,215.10;536.20,214.50;549.60,463.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="332.97" ytl="160.53" xbr="581.25" ybr="504.46" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="362" name="frame908_jpg.rf.8dee98c9ff357cc4f0e786d437b61d38.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="357.50,455.20;357.10,217.20;521.80,218.10;535.20,462.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="314.11" ytl="159.73" xbr="563.83" ybr="506.71" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="363" name="frame910_jpg.rf.439b17e2470c42c70bbcd14fc7d69d5f.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="346.70,456.20;347.80,217.20;509.40,220.70;520.20,462.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="295.26" ytl="158.94" xbr="546.40" ybr="508.96" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="364" name="frame913_jpg.rf.5e230d150d4bad04ab8c2e8d640fa201.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="332.80,455.20;334.40,214.60;490.80,222.20;500.10,460.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="276.41" ytl="158.15" xbr="528.98" ybr="511.21" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="365" name="frame922_jpg.rf.b45ac91d55fd93000001c7e97cd30daf.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="285.80,452.60;293.60,207.90;441.30,231.00;441.30,461.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="257.55" ytl="157.35" xbr="511.56" ybr="513.45" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="366" name="frame925_jpg.rf.94cc7e70efaf2005c3d7afbf1a199791.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="277.50,454.10;286.40,207.90;432.00,231.00;431.50,462.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="241.83" ytl="151.58" xbr="497.27" ybr="510.72" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="367" name="frame933_jpg.rf.88c749182336143dbcab5ff3e0dbcf80.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="260.00,463.90;264.70,211.50;413.90,234.60;415.50,464.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="226.12" ytl="145.81" xbr="482.99" ybr="507.99" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="368" name="frame934_jpg.rf.6d97cc1246d2ecc115452a8d0dd19922.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="259.00,465.40;264.70,211.50;413.90,234.60;415.50,464.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="224.19" ytl="143.91" xbr="482.49" ybr="509.14" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="369" name="frame935_jpg.rf.945619b3ab2f25fe2e280d5b4f3ba440.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="259.00,465.40;264.70,211.50;411.30,234.60;415.50,464.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="222.25" ytl="142.02" xbr="481.99" ybr="510.28" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="370" name="frame938_jpg.rf.5e946b5ff89293ec6198d8c04872da05.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="256.90,465.90;262.60,208.90;411.30,234.60;414.00,465.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="220.32" ytl="140.12" xbr="481.49" ybr="511.43" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="371" name="frame941_jpg.rf.ec4def37c65908461cf6a363fe568d0b.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="254.30,466.90;260.00,207.90;409.80,233.60;412.50,466.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="218.39" ytl="138.23" xbr="480.98" ybr="512.58" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="372" name="frame942_jpg.rf.a98c89635938c9aa3bf1f93463585900.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="254.30,466.90;260.00,207.90;409.80,233.60;412.50,466.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="216.45" ytl="136.33" xbr="480.48" ybr="513.72" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="373" name="frame943_jpg.rf.5de70feb67a1c5b9ec79964f61c024bb.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="251.70,470.50;257.90,207.90;408.80,233.60;411.00,466.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="214.52" ytl="134.44" xbr="479.98" ybr="514.87" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="374" name="frame951_jpg.rf.65afda34b381b448f2e8e2a8d25033f9.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="249.10,473.50;257.90,207.90;408.80,233.60;409.50,470.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="212.59" ytl="132.54" xbr="479.48" ybr="516.02" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="375" name="frame953_jpg.rf.4bee6baa7a874c2525f519908681a80c.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="249.10,473.50;257.90,207.90;408.80,233.60;409.50,470.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="210.65" ytl="130.65" xbr="478.98" ybr="517.16" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="376" name="frame955_jpg.rf.219f1eb9ff0a584d08c1e3b9e1abe12c.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="249.10,473.50;257.90,207.90;408.80,233.60;409.50,470.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="208.72" ytl="128.75" xbr="478.48" ybr="518.31" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="377" name="frame956_jpg.rf.c61c8a3f880b1a76703b9e1e5fd2c3fe.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="249.10,473.50;257.90,207.90;408.80,233.60;409.50,470.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="206.79" ytl="126.86" xbr="477.98" ybr="519.45" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="378" name="frame958_jpg.rf.cdc860a83c332ddb5b89baa7e038c891.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="249.10,473.50;255.10,206.20;407.10,228.00;412.80,470.00" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="204.86" ytl="124.96" xbr="477.48" ybr="520.60" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="379" name="frame963_jpg.rf.1e4d7edbfa70be6468f1e0318e18b23f.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="249.90,473.50;252.80,201.20;409.00,223.40;414.70,465.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="202.92" ytl="123.07" xbr="476.97" ybr="521.75" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="380" name="frame965_jpg.rf.7b70c922bcd349063bfd036db0860a77.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="249.90,473.50;252.80,201.20;409.00,223.40;414.70,465.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="200.99" ytl="121.17" xbr="476.47" ybr="522.89" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="381" name="frame971_jpg.rf.bcb1bec5516ad4344d48686482360a5c.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="247.60,469.20;249.70,192.30;407.80,214.90;413.90,458.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="199.06" ytl="119.28" xbr="475.97" ybr="524.04" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="382" name="frame972_jpg.rf.84eecec5a0589ac74899a55658d51567.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="247.60,469.20;250.60,189.50;407.80,214.40;413.90,458.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="197.12" ytl="117.38" xbr="475.47" ybr="525.19" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="383" name="frame976_jpg.rf.1afbdb1884e81fde0d13a7cd791252c9.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="245.70,470.60;248.30,188.60;408.70,213.00;415.30,459.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="195.19" ytl="115.49" xbr="474.97" ybr="526.33" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="384" name="frame980_jpg.rf.462c195ff769882b5804f4a2349ee9eb.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="238.70,472.90;242.70,187.20;406.40,214.40;409.80,464.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="193.26" ytl="113.59" xbr="474.47" ybr="527.48" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="385" name="frame981_jpg.rf.097aec67f934be6e542e18f9aa730083.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="235.50,476.10;241.20,187.40;403.80,215.90;407.90,467.10" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="191.32" ytl="111.70" xbr="473.97" ybr="528.62" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="386" name="frame982_jpg.rf.91f90f0d53962794f4d1ce153bb7ee4d.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="232.70,478.00;239.30,186.40;403.80,218.50;406.00,469.90" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="189.39" ytl="109.80" xbr="473.46" ybr="529.77" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="387" name="frame983_jpg.rf.c2d1545502a29fe4024812864a8d0dbd.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="229.50,476.10;237.90,183.20;401.90,218.00;403.70,470.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="187.46" ytl="107.91" xbr="472.96" ybr="530.92" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="388" name="frame985_jpg.rf.b062dadeca38381cb53c005b662a9269.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="229.50,476.10;237.90,183.20;401.90,218.00;403.70,470.40" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="185.53" ytl="106.01" xbr="472.46" ybr="532.06" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="389" name="frame987_jpg.rf.6f4370db7339a5efa67e0add7ecb6c64.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="225.30,479.80;231.40,181.30;401.00,214.80;403.20,471.80" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="183.59" ytl="104.12" xbr="471.96" ybr="533.21" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="390" name="frame989_jpg.rf.dee50b43cb1ea24085ce3ca4c5a221ec.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="226.20,476.10;230.90,173.90;400.50,203.20;405.50,461.60" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="181.66" ytl="102.22" xbr="471.46" ybr="534.36" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="391" name="frame993_jpg.rf.d6a7419137d0b4f8c3338af426ecb409.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="226.20,472.80;226.40,163.90;401.60,189.30;408.30,453.20" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="179.73" ytl="100.33" xbr="470.96" ybr="535.50" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="392" name="frame995_jpg.rf.23d0aa1af9eb85e82e976daaab5df758.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="227.80,476.70;225.30,166.60;401.60,189.30;412.20,454.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="177.79" ytl="98.43" xbr="470.46" ybr="536.65" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="393" name="frame998_jpg.rf.e0d605763c938c0de798afd8cd05f86e.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="230.10,483.20;222.70,167.50;403.00,185.40;415.90,453.50" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="175.86" ytl="96.54" xbr="469.96" ybr="537.80" rotation="358.90" z_order="0">
+    </box>
+  </image>
+  <image id="394" name="frame999_jpg.rf.920e07f315488359cce6286c2cd6aea1.jpg" width="640" height="640">
+    <points label="gate" source="manual" occluded="0" points="230.90,484.90;222.70,167.50;403.00,185.40;417.30,452.30" z_order="0">
+    </points>
+    <box label="gate" source="semi-auto" occluded="0" xtl="173.93" ytl="94.64" xbr="469.45" ybr="538.94" rotation="358.90" z_order="0">
+    </box>
+  </image>
+</annotations>
